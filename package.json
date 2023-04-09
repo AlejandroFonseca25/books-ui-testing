@@ -1,0 +1,23 @@
+{
+  "name": "books-ui-testing",
+  "version": "1.0.0",
+  "description": "Solution for E2E UI and API testing group workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroFonseca25/books-ui-testing.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "cypress"
+  ],
+  "author": "Alejandro Fonseca Forero <alejandro.f.forero@gmail.com> (github.com/AlejandroFonseca25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlejandroFonseca25/books-ui-testing/issues"
+  },
+  "homepage": "https://github.com/AlejandroFonseca25/books-ui-testing#readme"
+}
